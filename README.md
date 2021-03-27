@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-This project is a simple, interactie Tic Tac Toe app that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple, interactive Tic Tac Toe app that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installation and usage
 
