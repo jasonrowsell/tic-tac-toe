@@ -2,10 +2,18 @@
 
 This project is a simple, interactie Tic Tac Toe app that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## How to use
+## Installation and usage
 
-```shell
-git clone git@github.com:jasonrowsell/tic-tac-toe.git
+The web app requires latest [Node.js](https://nodejs.org/) version or more recent.
+
+### Running from source
+
+The following commands install and run the TicTacToe web app:
+
+```sh
+git clone 
+cd tictactoe
+npm start
 ```
 
 In the project directory, you can run:
