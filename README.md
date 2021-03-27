@@ -11,7 +11,7 @@ The web app requires latest [Node.js](https://nodejs.org/) version or more recen
 The following commands install and run the TicTacToe web app:
 
 ```sh
-git clone 
+git clone git@github.com:jasonrowsell/tic-tac-toe.git
 cd tictactoe
 npm start
 ```
