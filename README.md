@@ -5,7 +5,7 @@ This project is a simple, interactie Tic Tac Toe app that was bootstrapped with 
 ## How to use
 
 ```shell
-git clone
+git clone git@github.com:jasonrowsell/tic-tac-toe.git
 ```
 
 In the project directory, you can run:
