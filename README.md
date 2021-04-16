@@ -16,6 +16,16 @@ cd tictactoe
 npm start
 ```
 
+## How to use
+
+Take it in turns with an opponent to fill the board. The first player to match 3 in-a-row wins!
+
+![game](/readme-images/function.gif)
+
+After the match, the user can review the records of each move made during the game.
+
+![screenshot](/readme-images/history.gif)
+
 In the project directory, you can run:
 
 `npm start`
